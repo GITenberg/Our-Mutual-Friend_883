@@ -1,0 +1,59 @@
+_repo: Our-Mutual-Friend_883
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: "Our Mutual Friend, written in the years 1864–65, is the last novel completed\
+  \ by Charles Dickens and is one of his most sophisticated works, combining psychological\
+  \ insight with social analysis. It centres on, in the words of critic J. Hillis\
+  \ Miller, \"money, money, money, and what money can make of life\", but is also\
+  \ about human values. In the opening chapters a body is found in the Thames and\
+  \ identified as that of John Harmon, a young man recently returned to London to\
+  \ receive his inheritance. Were he alive, his father's will would require him to\
+  \ marry Bella Wilfer, a beautiful, mercenary girl whom he had never met. Instead,\
+  \ the money passes to the working-class Boffins, and the effects spread into various\
+  \ corners of London society.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '883'
+  wikidata: Q1557935
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Poor families -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Deception -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+- GITenberg
+title: Our Mutual Friend
+url: http://www.gutenberg.org/ebooks/883
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Ami_commun
+- https://ar.wikipedia.org/wiki/%D8%B5%D8%AF%D9%8A%D9%82%D9%86%D8%A7_%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%83
+- https://pt.wikipedia.org/wiki/Our_Mutual_Friend
+- https://cs.wikipedia.org/wiki/N%C3%A1%C5%A1_vz%C3%A1jemn%C3%BD_p%C5%99%C3%ADtel
+- https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B3%D8%AA_%D9%85%D8%B4%D8%AA%D8%B1%DA%A9%D9%85%D8%A7%D9%86
+- https://de.wikipedia.org/wiki/Unser_gemeinsamer_Freund
+- https://en.wikisource.org/wiki/Our_Mutual_Friend
+- https://es.wikipedia.org/wiki/Nuestro_com%C3%BAn_amigo
+- https://cy.wikipedia.org/wiki/Our_Mutual_Friend
+- https://en.wikipedia.org/wiki/Our_Mutual_Friend
+- https://kw.wikipedia.org/wiki/Our_Mutual_Friend
+- https://it.wikipedia.org/wiki/Il_nostro_comune_amico
+- https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%88_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B4%D1%80%D1%83%D0%B3
+- https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%88_%D0%BE%D0%B1%D1%89%D0%B8%D0%B9_%D0%B4%D1%80%D1%83%D0%B3
+- https://ca.wikipedia.org/wiki/Our_Mutual_Friend
+- https://sv.wikipedia.org/wiki/V%C3%A5r_gemensamme_v%C3%A4n
